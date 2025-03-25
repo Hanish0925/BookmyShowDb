@@ -19,4 +19,12 @@ To get started with BookmyShowDb, follow these steps:
 2. **Navigate to the project directory:**
    ```bash
    cd BookmyShowDb
+   
+3. **Install dependencies:**
+   ```bash
+   # If using npm
+   npm install
+
+   # If using yarn
+   yarn install
 
