@@ -15,3 +15,8 @@ To get started with BookmyShowDb, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Hanish0925/BookmyShowDb.git
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd BookmyShowDb
+
