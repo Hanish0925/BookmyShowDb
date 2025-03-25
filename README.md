@@ -27,6 +27,11 @@ To get started with BookmyShowDb, follow these steps:
 
    # If using yarn
    yarn install
+   
 4. **Set up the database:**
    Follow the instructions in the `database_setup.md` file to set up your database.
+   
+5. **Run the application:**
+   ```bash
+   npm start
 
