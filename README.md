@@ -35,3 +35,11 @@ To get started with BookmyShowDb, follow these steps:
    ```bash
    npm start
 
+## Usage
+Once the application is up and running, you can use the following features:
+
+- **Add a Movie:** Navigate to the Movies section and fill in the required details to add a new movie.
+- **Manage Theaters:** Go to the Theaters section to add or update theater information.
+- **Schedule Showtimes:** Use the Showtimes tab to schedule new showtimes for movies.
+- **Book Tickets:** Users can book tickets by selecting a movie, a theater, and a showtime.
+
